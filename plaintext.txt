@@ -1,5 +1,0 @@
-Software is a collection of instructions and data that tell a computer how to work.
-This is in contrast to hardware, from which the system is built and actually performs the work.
-In computer science and software engineering, software is all information processed by computer systems, including programs and data.
-Software includes programs, libraries and related non-executable data, such as online documentation or digital media.
-Software and hardware require each other and neither can be realistically used on their own.

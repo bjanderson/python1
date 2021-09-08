@@ -23,3 +23,24 @@ To close the session:
 
     CTRL + C
     exit
+
+
+-----
+
+To run the substitution cipher program...
+
+First, make sure you have a plaintext.txt file with some text in it, and a keyword.txt file with a word in it, and put them in the same folder as the substitution-cipher.py file.
+
+Then type the following into your command terminal:
+
+    python3 substitution-cipher.py
+
+This will create a file named ciphertext.txt if it does not already exist, and store the encrypted text there.
+
+To decrypt the ciphertext.txt file type the following into your command terminal:
+
+    python3 substitution-cipher.py -d -i ciphertext.txt -o decryptedtext.txt -k keyword.txt
+
+This will create a file named decryptedtext.txt if it does not already exist, and store the decrypted text there.
+
+At this point the contents of decryptedtext.txt and plaintext.txt should be the same.
