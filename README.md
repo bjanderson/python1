@@ -1,5 +1,7 @@
 # python 1
 
+This project is intended to be a bare-bones example of how to start a python project.
+
 To start the virtual env:
 
     pipenv shell
@@ -27,9 +29,15 @@ To close the session:
 
 -----
 
+## Substitution Cipher
+
 To run the substitution cipher program...
 
 First, make sure you have a plaintext.txt file with some text in it, and a keyword.txt file with a word in it, and put them in the same folder as the substitution-cipher.py file.
+
+Change into the substitution-cipher folder:
+
+    cd substitution-cipher
 
 Then type the following into your command terminal:
 
